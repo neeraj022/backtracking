@@ -51,5 +51,4 @@ function isValidPath (i, j, graph, visited) {
     return (graph[i][j] && !visited[j]);
 }
 
-
 main();
